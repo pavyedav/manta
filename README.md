@@ -1,5 +1,5 @@
 # manta
-MANTA - Microsimulation Analysis for Network Traffic Assignment
+Microsimulation Analysis for Network Traffic Assignment
 ## Dependencies
 
  - Boost 1.59
