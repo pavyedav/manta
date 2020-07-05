@@ -1,6 +1,5 @@
 # traffic-simulator-extended
-Traffic Microsimulator with Extensions
-
+MANTA
 ## Dependencies
 
  - Boost 1.59
