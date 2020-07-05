@@ -3,10 +3,10 @@ MANTA
 ## Dependencies
 
  - Boost 1.59
- - OpenCV (used versions: 2.4.12 in Windows; 3.2.0 in Ubuntu)
- - CUDA (used versions: 8.0.61 in Windows; 9.0 in Ubuntu)
- - g++ (used verions: 6.4.0 in Ubuntu)
- - Qt5 (used verions: 5.9.5 in Ubuntu)
+ - OpenCV (used versions: 3.2.0 in Ubuntu)
+ - CUDA (used versions: 9.0 in Ubuntu)
+ - g++ (used versions: 6.4.0 in Ubuntu)
+ - Qt5 (used versions: 5.9.5 in Ubuntu)
  - qmake (used verions: 3.1 in Ubuntu)
 
 ## Installation & Compilation
@@ -29,7 +29,7 @@ git clone git@github.com:ual/traffic-simulator-extended.git ~/traffic-simulator-
 
 If necessary checkout a different branch than master (`maintenance` for instance):
 ```bash
-git checkout maintenance
+git checkout edge_speeds_over_time
 ```
 
 Create `Makefile` and compile with:
