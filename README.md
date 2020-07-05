@@ -12,7 +12,7 @@ Microsimulation Analysis for Network Traffic Assignment
 ## Installation & Compilation
 
 Once the necessaries dependencies are installed you can use the following lines to make sure the
-correct verions of each one are used:
+correct versions of each one are used:
 ```bash
 export PATH=PATH=/usr/local/cuda-9.0/bin:$PATH
 export LIBRARY_PATH=/usr/local/cuda-9.0/lib64:$LIBRARY_PATH 
@@ -27,10 +27,10 @@ Clone in your home directory with:
 git clone git@github.com:udst/manta.git ~/manta && cd ~/manta
 ```
 
-If necessary checkout a different branch than master (`maintenance` for instance):
+(If necessary checkout a different branch than master (`maintenance` for instance):
 ```bash
 git checkout edge_speeds_over_time
-```
+```)
 
 Create `Makefile` and compile with:
 ```bash
